@@ -1,0 +1,23 @@
+[Theme]
+name = Vezo Dark
+type = dark
+
+[Colors]
+primary = #2F80FF
+accent = #00D4FF
+background = #080A0F
+surface = #161B22
+text = #F5F7FA
+text_secondary = #8B95A9
+border = #2D333B
+hover = #1C2430
+
+[Syntax]
+keyword = #2F80FF
+string = #00D4FF
+comment = #6A737D
+number = #F5A623
+function = #7B61FF
+variable = #F5F7FA
+operator = #FF6B6B
+type = #4ECB71

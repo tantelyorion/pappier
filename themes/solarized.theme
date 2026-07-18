@@ -1,0 +1,23 @@
+[Theme]
+name = Solarized Dark
+type = dark
+
+[Colors]
+primary = #268BD2
+accent = #2AA198
+background = #002B36
+surface = #073642
+text = #839496
+text_secondary = #586E75
+border = #073642
+hover = #002B36
+
+[Syntax]
+keyword = #859900
+string = #2AA198
+comment = #586E75
+number = #D33682
+function = #268BD2
+variable = #839496
+operator = #CB4B16
+type = #B58900

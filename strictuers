@@ -1,0 +1,24 @@
+pappier/
+├── LICENSE                     # MIT License
+├── README.md
+├── Makefile
+├── src/
+│   ├── main.c                  # Point d'entrée
+│   ├── editor.c                # Logique principale de l'éditeur
+│   ├── editor.h
+│   ├── ui.c                    # Interface utilisateur
+│   ├── ui.h
+│   ├── syntax.c                # Coloration syntaxique
+│   ├── syntax.h
+│   ├── file.c                  # Gestion des fichiers
+│   ├── file.h
+│   ├── theme.c                 # Thème et couleurs
+│   ├── theme.h
+│   ├── buffer.c                # Gestion du texte en mémoire
+│   ├── buffer.h
+│   └── clipboard.c             # Presse-papiers
+│       └── clipboard.h
+├── assets/
+│   └── pappier.ico
+└── docs/
+    └── usage.md

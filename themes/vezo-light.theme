@@ -1,0 +1,23 @@
+[Theme]
+name = Vezo Light
+type = light
+
+[Colors]
+primary = #2F80FF
+accent = #00D4FF
+background = #FFFFFF
+surface = #F6F8FA
+text = #24292E
+text_secondary = #586069
+border = #E1E4E8
+hover = #F0F2F5
+
+[Syntax]
+keyword = #D73A49
+string = #032F62
+comment = #6A737D
+number = #005CC5
+function = #6F42C1
+variable = #24292E
+operator = #D73A49
+type = #005CC5
